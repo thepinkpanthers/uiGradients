@@ -1,5 +1,5 @@
 [
-    {
+    {Ffa
         "name": "Berimbolo",
         "colors": ["#02111D", "#037BB5", "#02111D"]
     },
@@ -1183,5 +1183,9 @@
     {
         "name": "Evening Night",
         "colors": ["#005AA7", "#FFFDE4"]
+    },
+    {
+        "name": "Fantasy",
+        "colors": ["#CFE9FF", "#264C3D"]
     }
 ]
