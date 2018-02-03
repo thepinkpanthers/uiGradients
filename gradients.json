@@ -1183,5 +1183,8 @@
     {
         "name": "Evening Night",
         "colors": ["#005AA7", "#FFFDE4"]
-    }
-]
+    },
+    {
+        "name": "Fantasy",
+        "colors": ["#CFE9FF", "#51919D", "#CFE9FF"]
+    },
